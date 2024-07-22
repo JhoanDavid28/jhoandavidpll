@@ -16,7 +16,7 @@ timezone: Ecuador/Quito
 
 title: Jhoan David Pillapa LLerena   # the main title
 
-tagline: IT Analyst | 🐧Linux | 💻 Python | Telecommunications Engineer # it will display as the subtitle
+tagline: IT Analyst | 🐧 Linux | 💻 Python | Telecommunications Engineer # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -92,10 +92,10 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn: "https://chirpy-img.netlify.app"
+cdn: "https://avatars.githubusercontent.com"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: "/u/66537133?v=4"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
